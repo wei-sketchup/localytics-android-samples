@@ -19,12 +19,13 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
             <intent-filter>
-                <data android:scheme="ampYOUR-LOCALYTICS-APP-KEY" />
+                <data android:scheme="amp8b98215cc66fcba6e7d9d9c-4f3d66f4-4f1a-11e8-967f-007c928ca240" />
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
